@@ -1,0 +1,13 @@
+/**************************************header part start***********************************************/
+body{font-family: "Times New Roman", Times, serif!important; font-size:15px;text-align:justify;background:url(../img/bg.jpg);}
+/***************************Header start**************************************/
+header{ width:100%;z-index:9999;background:#A03BBF;!important;}
+
+.home{width:100%; background:url("../img/back2.png") scroll 0 0; padding:80px 0px 80px 0px; }
+.slider{width:100%; overflow:hidden}
+.letter{ font-size:80px; 
+text-shadow: -1px 0 black, 0 3px black, 3px 0 black, 0 -1px black;
+color:#A03BBF;}
+.mask{ height:20px; clear:both;}
+/***************************index page end**************************************/
+ 
